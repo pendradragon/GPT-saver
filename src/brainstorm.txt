@@ -1,0 +1,8 @@
+What comes out when you are saving as "Webpage, complete":
+    - HTML file
+    - 2 CSS files
+    - JSON DOWNLOAD file 
+    - Raw Binary file
+
+What comes out when you save as a "Webpage, single file":
+    - mhtml
